@@ -20,3 +20,12 @@ cd alu_regex-data-extraction-arietteK
 3. **Install Node.js(If not installed) from https://nodejs.org/en**
 ## Usage
 To see the extracted data, run extracting.js
+## Project Structure
+
+```plaintext
+alu_regex-data-extraction-arietteK/
+├── extracting.js          # Main file
+├── README.md        # Project documentation
+```
+## Contributing
+Feel free to fork this repository and submit pull requests with improvements.
