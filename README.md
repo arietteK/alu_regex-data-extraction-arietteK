@@ -4,7 +4,7 @@ This project showcases how to extract the required data from the hundreds of tho
 The extracted data types included:
 - Email addresses
 - Time (12 hour and 24 hour format)
-- HTML  tags
+- Phone number
 - Currency amounts
 - Hashtags
 - Credit card numbers
@@ -17,3 +17,6 @@ git clone https://github.com/{YourUsername}/alu_regex-data-extraction-arietteK.g
 ```bash
 cd alu_regex-data-extraction-arietteK
 ```
+3. **Install Node.js(If not installed) from https://nodejs.org/en**
+## Usage
+To see the extracted data, run extracting.js
