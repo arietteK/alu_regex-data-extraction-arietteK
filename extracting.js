@@ -8,7 +8,7 @@ function findEmails(text) {
 }
 
 // Function to find phone numbers in a given text
-function findPhoneNumbers(text) {T
+function findPhoneNumbers(text) {
     //This regex is designed to match various phone number formats
     const phonePattern = /\+?\d{0,2}[-.\s]?\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{3,4}/g;
     const phones = text.match(phonePattern);
